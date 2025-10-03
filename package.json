@@ -1,8 +1,9 @@
 {
-  "name": "vercel-mongo-api",
+  "name": "netlify-mongo-api",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vercel dev"
+    "dev": "netlify dev",
+    "build": "echo 'No build step required for pure Node.js API.'"
   },
   "dependencies": {
     "mongodb": "*"
