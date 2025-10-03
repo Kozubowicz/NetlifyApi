@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "netlify dev",
-    "build": "echo 'No build step required for pure Node.js API.'"
+    "build": "echo 'No build step required.'"
   },
   "dependencies": {
     "mongodb": "*"
